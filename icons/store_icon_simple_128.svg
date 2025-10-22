@@ -1,0 +1,43 @@
+<!-- Simple Chrome Web Store 128x128 Icon -->
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4F46E5"/>
+      <stop offset="50%" style="stop-color:#7C3AED"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+    
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  
+  <!-- Main background -->
+  <rect width="128" height="128" rx="24" fill="url(#bg)"/>
+  
+  <!-- Speaker body -->
+  <rect x="32" y="45" width="24" height="38" fill="white" rx="4" filter="url(#shadow)"/>
+  
+  <!-- Speaker cone -->
+  <polygon points="56,48 92,30 92,98 56,80" fill="white" filter="url(#shadow)"/>
+  
+  <!-- Sound waves -->
+  <g stroke="white" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9">
+    <path d="M96 45 Q102 52 102 64 Q102 76 96 83"/>
+    <path d="M104 35 Q114 45 114 64 Q114 83 104 93"/>
+    <path d="M110 25 Q124 39 124 64 Q124 89 110 103"/>
+  </g>
+  
+  <!-- Boost indicator -->
+  <rect x="24" y="96" width="80" height="20" fill="rgba(0,0,0,0.3)" rx="10"/>
+  <text x="64" y="109" text-anchor="middle" fill="white" font-size="14" font-weight="bold" font-family="system-ui">SOUND BOOST</text>
+  
+  <!-- Volume bars -->
+  <g fill="#FCD34D">
+    <rect x="16" y="75" width="4" height="8" rx="2"/>
+    <rect x="16" y="65" width="4" height="18" rx="2"/>
+    <rect x="16" y="55" width="4" height="28" rx="2"/>
+    <rect x="16" y="45" width="4" height="38" rx="2"/>
+  </g>
+  
+</svg>

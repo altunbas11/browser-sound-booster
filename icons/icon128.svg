@@ -1,0 +1,10 @@
+<!-- Placeholder for 128x128 icon -->
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="64" cy="64" r="56" fill="#667eea" stroke="#4c51bf" stroke-width="4"/>
+  <rect x="32" y="48" width="20" height="32" fill="white" rx="2"/>
+  <polygon points="52,51 84,35 84,93 52,77" fill="white"/>
+  <path d="M88 42 Q93 47 93 64 Q93 81 88 86" stroke="white" stroke-width="3" fill="none"/>
+  <path d="M95 32 Q105 42 105 64 Q105 86 95 96" stroke="white" stroke-width="3" fill="none"/>
+  <path d="M102 22 Q117 37 117 64 Q117 91 102 106" stroke="white" stroke-width="3" fill="none"/>
+  <text x="64" y="115" text-anchor="middle" fill="white" font-size="10" font-weight="bold">BOOST</text>
+</svg>

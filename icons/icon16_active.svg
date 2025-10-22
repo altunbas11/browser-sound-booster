@@ -1,0 +1,8 @@
+<!-- Active state icon 16x16 -->
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="8" cy="8" r="7" fill="#e74c3c"/>
+  <rect x="3" y="6" width="3" height="4" fill="white"/>
+  <polygon points="6,7 10,5 10,11 6,9" fill="white"/>
+  <path d="M11 6 Q12 7 12 8 Q12 9 11 10" stroke="white" stroke-width="0.5" fill="none"/>
+  <circle cx="12" cy="4" r="2" fill="#ffd700"/>
+</svg>

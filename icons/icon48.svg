@@ -1,0 +1,8 @@
+<!-- Placeholder for 48x48 icon -->
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="24" cy="24" r="21" fill="#667eea"/>
+  <rect x="12" y="18" width="8" height="12" fill="white"/>
+  <polygon points="20,19 32,13 32,35 20,29" fill="white"/>
+  <path d="M34 16 Q37 19 37 24 Q37 29 34 32" stroke="white" stroke-width="1.5" fill="none"/>
+  <path d="M38 12 Q42 16 42 24 Q42 32 38 36" stroke="white" stroke-width="1.5" fill="none"/>
+</svg>
