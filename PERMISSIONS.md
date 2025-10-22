@@ -41,6 +41,18 @@ This document provides detailed justifications for all permissions requested by 
 - **User Control**: Users have full control over when and where the extension runs
 - **Transparency**: Extension clearly indicates when it's active on a tab
 
+**Why <all_urls> is Required:**
+- **Universal Media Support**: Users may want to boost audio on any website with media content
+- **Dynamic Content**: New streaming sites emerge regularly (TikTok, new music platforms, etc.)
+- **User Choice**: Extension works wherever the user chooses to use it
+- **No Alternative**: activeTab alone cannot inject content scripts proactively for audio monitoring
+
+**Security Measures:**
+- Content script only runs when explicitly activated by user
+- No automatic data collection or transmission
+- All audio processing happens locally in browser
+- No external server communication
+
 ### Removed Permission: scripting
 **Status:** Removed from manifest.json
 **Reason:** Not needed since content script is declared in manifest.json rather than injected programmatically

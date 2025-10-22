@@ -72,9 +72,10 @@ Very high volume levels can cause hearing damage. Use responsibly and at your ow
 - **Alternative**: Content scripts are injected automatically by manifest declaration
 
 **Host Permissions: <all_urls>**
-- **Purpose**: Allows the extension to work on any website the user visits
-- **Justification**: Audio boosting should work on all websites (YouTube, Spotify, Netflix, etc.) where users want to increase volume
-- **Scope**: Content script only runs when the user activates the extension, not automatically on all sites
+- **Purpose**: Allows the extension to work on any website with media content
+- **Justification**: Audio boosting should work wherever users consume media (YouTube, Netflix, Spotify, podcasts, games, etc.)
+- **Scope**: Content script only runs when user activates the extension, not automatically on all sites
+- **Security**: No automatic data access, user-controlled activation only
 
 ### Why These Permissions Are Minimal & Necessary
 
