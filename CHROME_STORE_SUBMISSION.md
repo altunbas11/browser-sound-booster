@@ -26,13 +26,15 @@ Leave ALL checkboxes **UNCHECKED**:
 ### **Section 3: Privacy Policy**
 **Privacy Policy URL:**
 ```
-https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_REPO]/main/PRIVACY_POLICY.md
+https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/PRIVACY_POLICY.md
 ```
 
 **OR if using GitHub Pages:**
 ```
-https://[YOUR_USERNAME].github.io/[YOUR_REPO]/PRIVACY_POLICY.html
+https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/PRIVACY_POLICY.html
 ```
+
+**📝 Replace YOUR_USERNAME and YOUR_REPO_NAME with your actual GitHub details**
 
 ---
 

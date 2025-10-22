@@ -41,13 +41,15 @@ Neden boş bırakıyoruz:
 
 **GitHub Raw URL kullanın:**
 ```
-https://raw.githubusercontent.com/[USERNAME]/[REPO]/main/PRIVACY_POLICY.md
+https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/PRIVACY_POLICY.md
 ```
 
 Veya **GitHub Pages URL:**
 ```
-https://[USERNAME].github.io/[REPO]/PRIVACY_POLICY.html
+https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/PRIVACY_POLICY.html
 ```
+
+**📝 YOUR_USERNAME ve YOUR_REPO_NAME'i kendi GitHub bilgilerinizle değiştirin**
 
 ### 🔗 **Gizlilik Politikası Yayınlama:**
 
