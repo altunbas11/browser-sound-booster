@@ -41,7 +41,7 @@ Neden boş bırakıyoruz:
 
 **GitHub Raw URL kullanın:**
 ```
-https://raw.githubusercontent.com/altunbas11/browser-sound-booster/main/PRIVACY_POLICY.md
+https://raw.githubusercontent.com/altunbas11/browser-sound-booster/master/PRIVACY_POLICY.md
 ```
 
 Veya **GitHub Pages URL:**

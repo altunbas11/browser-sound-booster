@@ -26,7 +26,7 @@ Leave ALL checkboxes **UNCHECKED**:
 ### **Section 3: Privacy Policy**
 **Privacy Policy URL:**
 ```
-https://raw.githubusercontent.com/altunbas11/browser-sound-booster/main/PRIVACY_POLICY.md
+https://raw.githubusercontent.com/altunbas11/browser-sound-booster/master/PRIVACY_POLICY.md
 ```
 
 **OR if using GitHub Pages:**
